@@ -1,7 +1,7 @@
 import express from 'express';
 
 
-export const getOtherRoutes = () => {
+export const getOtherRouter = () => {
 
 	const otherRouter = express.Router()
 	//GET---------------------
